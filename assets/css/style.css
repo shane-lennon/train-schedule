@@ -1,0 +1,63 @@
+body {
+    font-family: serif;
+    background: url("../images/Highline1.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.jumbotron {
+    background-color: rgba(100, 100, 100, 0.5);
+    font-size: 45pt;
+}
+
+h1, h3 {
+    color: rgb(209, 146, 28);
+    font-weight: bold;
+    font-size: 1.5em;
+    text-align: center;
+    text-shadow:
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+}
+
+.panel-heading {
+    background-color: rgba(100, 100, 100, 0.5);
+    padding: 1%;
+}
+
+td {
+    background-color: rgba(100, 100, 100, 0.5);
+    color: white;
+    font-weight: bold;
+    font-size: 1.3rem;
+    text-shadow:
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+}
+
+th {
+    background-color: rgba(100, 100, 100, 0.5);
+    color: rgb(209, 146, 28);
+    text-align: center;
+    text-shadow:
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+}
+
+label {
+    font-weight: bold;
+    color: rgb(209, 146, 28);
+    text-shadow:
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+}
